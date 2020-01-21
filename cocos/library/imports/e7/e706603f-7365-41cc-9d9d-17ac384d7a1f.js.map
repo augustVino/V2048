@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../assets/scripts/assets/scripts/GlobalData.js"],"names":["window","G","userInfo"],"mappings":";;;;;;AAAAA,OAAOC,CAAP,GAAW;AACPC,cAAU;AADH,CAAX","file":"GlobalData.js","sourceRoot":"../../../../assets/scripts","sourcesContent":["window.G = {\n    userInfo: null\n}"]}
